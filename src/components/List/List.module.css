@@ -1,0 +1,12 @@
+.List {
+  padding: 50px;
+}
+
+tbody tr:hover {
+  cursor: pointer;
+}
+
+th {
+  position: sticky;
+  top: 0;
+}
